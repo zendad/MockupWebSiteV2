@@ -2,7 +2,7 @@
 body {
     font-family: 'lucida grande', sans-serif;
     background-color: white;
-    margin-top: 2%;
+    margin-top: 1%;
 }
 
 /*img*/
@@ -28,7 +28,7 @@ img {
 }
 
 /*h2*/
-h1 {
+h2 {
     color: #666666;
     font-size: 50px;
 }
@@ -41,4 +41,5 @@ li {
 /*ul,article*/
 ul, article {
     color: #a8a8a8;
+    font-weight: 550;
 }
