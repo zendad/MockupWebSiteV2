@@ -2,7 +2,7 @@
 body {
     font-family: 'lucida grande', sans-serif;
     background-color: white;
-    margin-top: 1%;
+    margin-top: 2%;
 }
 
 /*img*/
@@ -27,8 +27,13 @@ img {
     font-weight: bold;
 }
 
-/*h2*/
-h2 {
+/*p*/
+p {
+    text-align: left;
+}
+
+/*h1*/
+h1 {
     color: #666666;
     font-size: 50px;
 }
@@ -39,7 +44,6 @@ li {
 }
 
 /*ul,article*/
-ul, article {
+ul, p {
     color: #a8a8a8;
-    font-weight: 550;
 }
